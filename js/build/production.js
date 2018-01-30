@@ -1,7 +1,8 @@
-/* test*/
-//CAPTIONS
-  $('.thumbnails li').hover(function(){
-    $(".caption p", this).stop().fadeIn("slow");
-  }, function() {
-    $(".caption p", this).stop().fadeOut("fast");
-  });
+$(function() {
+	$('.nav__toggle').click( function(e) {
+    	e.preventDefault();
+    	$(this).toggleClass('active');
+    	$('.nav').toggleClass('active');
+    	$('body').toggleClass('nav--on');
+  	});
+});
