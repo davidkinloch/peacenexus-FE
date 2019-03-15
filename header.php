@@ -9,12 +9,13 @@
         <title>Page Ttile</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="icon" type="image/png" href="http://realfavicongenerator.net/">
-        <link rel="stylesheet" type="text/css" href="/css/main.css" />
-        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <!--Import Google Icon Font-->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+
     </head>
     <body>
-         <div class="header">
+        <div class="header">
             <header class="header__inner wrapper">
                 <a href="index.php" class="header__logo">Website</a>
               
@@ -26,22 +27,15 @@
                 <a href="#" class="button button--primary">Primary</a>
             </header>
         </div>          
-        <nav class="nav">
-            <ul class="nav__menu">   
-                <li class="nav__item"><a class="nav__link" href="#">Who We Are</a></li><!-- end of parent item -->
-                <li class="nav__item"><a class="nav__link" href="#">What We Do</a></li><!-- end of parent item -->
-                <li class="nav__item login mobile"><a class="nav__link" href="#">Contact</a></li></li>
-                <li class="nav__item"><a class="nav__link" href="#">How We Live</a></li><!-- end of parent item -->
-                <li class="nav__item"><a class="nav__link" href="#">Joining Us</a>
-                    <ul class="nav__menu--sub">
-                        <li class="nav__item"><a class="nav__link" href="#">Sub menu 1</a></li>
-                        <li class="nav__item"><a class="nav__link" href="#">Sub menu 2</a></li>
-                        <li class="nav__item"><a class="nav__link" href="#">Sub menu 3</a></li>
-                        <li class="nav__item"><a class="nav__link" href="#">Sub menu 4</a></li>
-                        <li class="nav__item"><a class="nav__link" href="#">Sub menu 5</a></li>
-                        <li class="nav__item"><a class="nav__link" href="#">Sub menu 6</a></li>
-                        <li class="nav__item"><a class="nav__link" href="#">Sub menu 7</a></li>
-                    </ul><!-- end of submenu -->
-                </li><!-- end of parent item -->
+        <nav class="light-blue lighten-1" role="navigation">
+          <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Logo</a>
+            <ul class="right hide-on-med-and-down">
+              <li><a href="#">Navbar Link</a></li>
             </ul>
-        </nav><!--.site-navigation -->        
+
+            <ul id="nav-mobile" class="sidenav">
+              <li><a href="#">Navbar Link</a></li>
+            </ul>
+            <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+          </div>
+        </nav>
