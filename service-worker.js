@@ -9,7 +9,8 @@ var filesToCache = [
  "./js/build/production.min.js",
  "./js/vendor/jquery-2.1.1.min.js",
  "./service-worker.js",
- "./css/materialize.css"
+ "./css/materialize.css",
+ "./assets/src/LogoPN.png"
 ];
 
 // Listen to installation event
