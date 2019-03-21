@@ -13,6 +13,7 @@
 
 .btn {
   box-shadow: none;
+  overflow: hidden;
 }
 
 .btn-transparent {
@@ -219,6 +220,7 @@ nav {
       .card-title {
         margin-bottom: 30px;
         color: $primary-color;
+        word-break: break-all;
       }
       p {
         margin-bottom: 30px;
