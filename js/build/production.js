@@ -3,11 +3,17 @@
 
     $('.sidenav').sidenav();
 
-  }); // end of document ready
+    $(".dropdown-trigger").dropdown();
 
-  if ('serviceWorker' in navigator) {
+     $('.tabs').tabs();
+
+     $('.scrollspy').scrollSpy();
+  }); // end of document ready
+/*
+ if ('serviceWorker' in navigator) {
     navigator.serviceWorker
              .register('./service-worker.js')
              .then(function() { console.log('Service Worker Registered'); });
   }
+  */
 })(jQuery); // end of jQuery name space

@@ -50,7 +50,7 @@ module.exports = function(grunt) {
                 livereload:12345,
             },
             css: {
-                files: ['sass/*.scss'], // which files to watch
+                files: ['sass/components/*.scss'], // which files to watch
                 tasks: ['sass']
               },
             scripts: {

@@ -1,54 +1,47 @@
 
-  <footer class="page-footer orange">
+  <footer class="page-footer blue">
     <div class="container">
       <div class="row">
-        <div class="col l6 s12">
-           <h3>Get In Touch</h3>
-            <div class="vcard" itemscope itemtype="http://schema.org/Organization">
-              <span class="org" itemprop="name">Name</span><br>
-              <span class="adr" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                <span itemprop="streetAddress">
-                  <span class="extended-address">Extended Address</span>
-                  <span class="street-address">Street Address</span>
-                </span><br>
-                  <span class="locality" itemprop="addressLocality">City</span><br>
-                  <span class="postcode" itemprop="postalCode">Postcode</span><br>
-                  <span class="country" itemprop="postalCountry">Country</span><br/>
-              </span>
-
-                <span>Tel: <span class="tel" itemprop="telephone">00340700777777</span></span>
-                <p>Email: <a href="mailto:email@gmail.com" class="email" itemprop="email">email@gmail.com</a></p>
-            </div><!-- end of vCard -->
-
+        <div class="col s12 m3">
+           <h5 class="small">Contact</h5>
+           <ul>
+            <li><span><span class="tel" itemprop="telephone">00340700777777</span></span></li>
+            <li><a href="mailto:info@peacenexus.org" class="email" itemprop="email">info@peacenexus.org</a></li>
+          </ul>
         </div>
-        <div class="col l3 s12">
-          <h5 class="white-text">Social</h5>
-          <ul class="social">
-                        <li class="social__item">
-                            <a href="#" class="social__link"><i class="fa fa-facebook-square"></i></a>
-                        </li>
-                        <li class="social__item">
-                            <a href="#" class="social__link"><i class="fa fa-twitter"></i></a>
-                        </li>
-                        <li class="social__item">
-                            <a href="#" class="social__link"><i class="fa fa-instagram"></i></a>
-                        </li>
-                    </ul>
-        </div>
-        <div class="col l3 s12">
-          <h5 class="white-text">Connect</h5>
+        <div class="col s12 m3">
+          <h5 class="small">Careers</h5>
           <ul>
-            <li><a class="white-text" href="#!">Link 1</a></li>
-            <li><a class="white-text" href="#!">Link 2</a></li>
-            <li><a class="white-text" href="#!">Link 3</a></li>
-            <li><a class="white-text" href="#!">Link 4</a></li>
+            <li>Join the team</li>
+            <li><a href="mailto:careers@peacenexus.org" class="email" itemprop="email">careers@peacenexus.org</a></li>
+          </ul>
+        </div>
+          <div class="col s12 m3">
+          <h5 class="small">Consulting Oppotunities</h5>
+          <ul>
+            <li>Get in touch</li>
+            <li><a href="mailto:careers@peacenexus.org" class="email" itemprop="email">careers@peacenexus.org</a></li>
+          </ul>
+        </div>
+        <div class="col s12 m3">
+          <ul class="social">
+              <li class="social__item">
+                  <a href="#" class="social__link"><img src="assets/src/instagram.svg" alt=""></a>
+              </li>
+              <li class="social__item">
+                  <a href="#" class="social__link"><img src="assets/src/twitter.svg" alt=""></a>
+              </li>
+              <li class="social__item">
+                  <a href="#" class="social__link"><img src="assets/src/facebook.svg" alt=""></a>
+              </li>
           </ul>
         </div>
       </div>
+      <a href="#" class="builtby">Website By Leidar</a>
     </div>
     <div class="footer-copyright">
       <div class="container">
-      Site by <a class="orange-text text-lighten-3" href="http://www.davidkinloch.com">DkDD</a>
+        &copy; 2019 PeaceNexus Foundation <a href="#">Terms &amp; Conditions</a> <a href="#">Privacy</a><a class="right" href="#top"><img src="assets/src/up.svg" alt=""></a>
       </div>
     </div>
   </footer>

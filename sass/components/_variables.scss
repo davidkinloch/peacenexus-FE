@@ -34,14 +34,14 @@
 // 1. Colors
 // ==========================================================================
 
-$primary-color: color("materialize-red", "lighten-2") !default;
+$primary-color: color("blue", "base") !default;
 $primary-color-light: lighten($primary-color, 15%) !default;
 $primary-color-dark: darken($primary-color, 15%) !default;
 
-$secondary-color: color("teal", "lighten-1") !default;
+$secondary-color: color("light-blue", "base") !default;
 $success-color: color("green", "base") !default;
 $error-color: color("red", "base") !default;
-$link-color: color("light-blue", "darken-1") !default;
+$link-color: color("blue", "lighten-1") !default;
 
 
 // 2. Badges
@@ -57,26 +57,26 @@ $badge-height: 22px !default;
 // Shared styles
 $button-border: none !default;
 $button-background-focus: lighten($secondary-color, 4%) !default;
-$button-font-size: 14px !default;
+$button-font-size: 12px !default;
 $button-icon-font-size: 1.3rem !default;
-$button-height: 36px !default;
+$button-height: 38px !default;
 $button-padding: 0 16px !default;
-$button-radius: 2px !default;
+$button-radius: 3px !default;
 
 // Disabled styles
 $button-disabled-background: #DFDFDF !default;
 $button-disabled-color: #9F9F9F !default;
 
 // Raised buttons
-$button-raised-background: $secondary-color !default;
+$button-raised-background: $primary-color !default;
 $button-raised-background-hover: lighten($button-raised-background, 5%) !default;
 $button-raised-color: #fff !default;
 
 // Large buttons
-$button-large-font-size: 15px !default;
+$button-large-font-size: 13px !default;
 $button-large-icon-font-size: 1.6rem !default;
-$button-large-height: $button-height * 1.5 !default;
-$button-floating-large-size: 56px !default;
+$button-large-height: 48px !default;
+$button-floating-large-size: 48px !default;
 
 // Small buttons
 $button-small-font-size: 13px !default;
@@ -101,7 +101,7 @@ $button-floating-radius: 50% !default;
 
 $card-padding: 24px !default;
 $card-bg-color: #fff !default;
-$card-link-color: color("orange", "accent-2") !default;
+$card-link-color: $link-color !default;
 $card-link-color-light: lighten($card-link-color, 20%) !default;
 
 
@@ -155,7 +155,7 @@ $timepicker-clock-plate-bg: #eee !default;
 
 $dropdown-bg-color: #fff !default;
 $dropdown-hover-bg-color: #eee !default;
-$dropdown-color: $secondary-color !default;
+$dropdown-color: $primary-color !default;
 $dropdown-item-height: 50px !default;
 
 
@@ -242,9 +242,9 @@ $element-bottom-margin: ($gutter-width*2)/3 !default;
 // 13. Navigation Bar
 // ==========================================================================
 
-$navbar-height: 64px !default;
+$navbar-height: 50px !default;
 $navbar-line-height: $navbar-height !default;
-$navbar-height-mobile: 56px !default;
+$navbar-height-mobile: 50px !default;
 $navbar-line-height-mobile: $navbar-height-mobile !default;
 $navbar-font-size: 1rem !default;
 $navbar-font-color: #fff !default;
@@ -303,15 +303,17 @@ $toast-action-color: #eeff41;
 // 20. Typography
 // ==========================================================================
 
-$font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !default;
+$font-stack: "Helvetica", arial, sans-serif !default;
+$font-special: 'Open Sans', sans-serif !default;
+$font-serif: Georgia, Times, "Times New Roman", serif !default;
 $off-black: rgba(0, 0, 0, 0.87) !default;
 // Header Styles
-$h1-fontsize: 4.2rem !default;
-$h2-fontsize: 3.56rem !default;
-$h3-fontsize: 2.92rem !default;
-$h4-fontsize: 2.28rem !default;
-$h5-fontsize: 1.64rem !default;
-$h6-fontsize: 1.15rem !default;
+$h1-fontsize: 2.9rem !default;
+$h2-fontsize: 2rem !default;
+$h3-fontsize: 2rem !default;
+$h4-fontsize: 2rem !default;
+$h5-fontsize: 1.5rem !default;
+$h6-fontsize: 1.5rem !default;
 
 
 // 21. Footer
@@ -346,4 +348,4 @@ $collection-line-height: 1.5rem !default;
 // 24. Progress Bar
 // ==========================================================================
 
-$progress-bar-color: $secondary-color !default;
+$progress-bar-color: $primary-color !default;
