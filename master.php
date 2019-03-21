@@ -37,7 +37,7 @@
       </div>
       <div class="col s12 m12 l6">
         <div class="row">
-          <div class="col s6 m6">
+          <div class="col s12 m6">
             <div class="card">
               <div class="card-image waves-effect waves-block waves-light">
                 <img src="https://dummyimage.com/640x640/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
@@ -47,12 +47,12 @@
               </div>
               <div class="card-reveal blue">
                 <h3 class="card-title">Regions<i class="material-icons right">close</i></h3>
-                <p>Here is some more information about this product that is only revealed once clicked on.</p>
+                <p>Here is some more information about this product </p>
                 <a href="#" class="">Learn More</a>
               </div>
             </div>
           </div>
-          <div class="col s6 m6">
+          <div class="col s12 m6">
             <div class="card">
               <div class="card-image waves-effect waves-block waves-light">
                 <img src="https://dummyimage.com/640x640/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
@@ -62,7 +62,7 @@
               </div>
               <div class="card-reveal blue">
                 <h3 class="card-title">Services<i class="material-icons right">close</i></h3>
-                <p>Here is some more information about this product that is only revealed once clicked on.</p>
+                <p>Here is some more information about this product</p>
                 <a href="#" class="">Learn More</a>
               </div>
             </div>
@@ -79,7 +79,7 @@
               </div>
               <div class="card-reveal blue">
                 <h3 class="card-title">Publications<i class="material-icons right">close</i></h3>
-                <p>Here is some more information about this product that is only revealed once clicked on.</p>
+                <p class="hide-on-small-only">Here is some more information about this product that is only revealed once clicked on.</p>
                 <a href="#" class="">Learn More</a>
               </div>
             </div>
