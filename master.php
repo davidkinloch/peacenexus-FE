@@ -3,7 +3,7 @@
 <div class="section no-pad-bot banner" id="index-banner" style="background-image: url(https://dummyimage.com/1440x530/ccc/333.jpg);">
   <div class="container valign-wrapper">
     <div class="row center">
-      <div class="col s12">
+      <div class="col s12 m6 offset-m3">
         <h1 class="blue-text">Peace Nexus</h1>
         <h2 class="blue-text">tnuresed aiciffo iuq apluc ni tnus ,tnediorp non tatadipuc taceacco tnis ruetpecxE</h2>
         <a href="#" class="btn-large waves-effect waves-light">Call to Action</a>
@@ -134,7 +134,7 @@
   </div>
 </div><!-- end of container -->
 
-<div class="section banner banner-text" id="region-banner" style="background-color: #666;">
+<div class="section banner banner-text" id="region-banner" >
   <div class="container">
     <div class="row">
       <div class="col s12">
@@ -150,7 +150,7 @@
 
 <div class="section countries">
   <div class="row">
-    <div class="col s6 l2 offset-l1">
+    <div class="col s6 xl2 offset-xl1">
       <div class="card">
         <div class="card-content">
           <h3 class="card-title">Central Asia</h3>
@@ -159,7 +159,7 @@
         </div>
       </div>
     </div>
-    <div class="col s6 l2">
+    <div class="col s6 xl2">
       <div class="card">
         <div class="card-content">
           <h3 class="card-title">South-East Asia</h3>
@@ -168,7 +168,7 @@
         </div>
       </div>
     </div>
-    <div class="col s6 l2">
+    <div class="col s6 xl2">
       <div class="card">
         <div class="card-content">
           <h3 class="card-title">West Balkans</h3>
@@ -177,7 +177,7 @@
         </div>
       </div>
     </div>
-    <div class="col s6 l2">
+    <div class="col s6 xl2">
       <div class="card">
         <div class="card-content">
           <h3 class="card-title">West Africa</h3>
@@ -186,7 +186,7 @@
         </div>
       </div>
     </div>
-    <div class="col s6 l2 offset-s3">
+    <div class="col s6 xl2 offset-s3">
       <div class="card">
         <div class="card-content">
           <h3 class="card-title">International</h3>
@@ -199,7 +199,7 @@
 </div>
 
 
-<div class="section banner banner-text" id="region-banner" style="background-color: #666;">
+<div class="section banner banner-text" id="region-banner" >
   <div class="container">
     <div class="row">
       <div class="col s12">
@@ -235,8 +235,8 @@
           </div>
         </div>
         <div class="card-action">
-          <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-          <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+          <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+          <a class="btn waves-effect waves-light" href="#">Organisational development</a>
         </div>
       </div>
     </div>
@@ -250,8 +250,8 @@
           </div>
         </div>
         <div class="card-action">
-          <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-          <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+          <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+          <a class="btn waves-effect waves-light" href="#">Organisational development</a>
         </div>
       </div>
     </div>
@@ -265,8 +265,8 @@
           </div>
         </div>
         <div class="card-action">
-          <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-          <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+          <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+          <a class="btn waves-effect waves-light" href="#">Organisational development</a>
         </div>
       </div>
     </div>
@@ -279,9 +279,10 @@
     <div class="row center">
       <div class="col s12">
         <h2>Central Asia Partners</h2>
+        <p>Lorem ipsum dolor sit amet consecetueur amet sit dolor ipsum lorem muspi rolod tis tema rueutecesnoc tema tis rolod muspi merol ipsum dolor sit amet consecetueur amet sit dolor ipsum lorem.</p>
       </div>
       <div class="col s6 m4 l4">
-        <ul>
+        <ul class="links__menu">
           <li><a href="#"><i class="material-icons">chevron_right</i>partner link</a></li>
           <li><a href="#"><i class="material-icons">chevron_right</i>partner link</a></li>
           <li><a href="#"><i class="material-icons">chevron_right</i>partner link</a></li>
@@ -289,7 +290,7 @@
         </ul>
       </div>
       <div class="col s6 m4 l4">
-        <ul>
+        <ul class="links__menu">
           <li><a href="#"><i class="material-icons">chevron_right</i>partner link</a></li>
           <li><a href="#"><i class="material-icons">chevron_right</i>partner link</a></li>
           <li><a href="#"><i class="material-icons">chevron_right</i>partner link</a></li>
@@ -297,7 +298,7 @@
         </ul>
       </div>
       <div class="col s6 m4 l4 offset-s3">
-        <ul>
+        <ul class="links__menu">
           <li><a href="#"><i class="material-icons">chevron_right</i>partner link</a></li>
           <li><a href="#"><i class="material-icons">chevron_right</i>partner link</a></li>
           <li><a href="#"><i class="material-icons">chevron_right</i>partner link</a></li>
@@ -308,7 +309,7 @@
   </div>
 </div>
 
-<div class="section no-margin banner banner-text" id="partnername-banner" style="background-color: #666;">
+<div class="section no-margin banner banner-text" id="partnername-banner" >
   <div class="container">
     <div class="row">
       <div class="col s12">
@@ -372,8 +373,8 @@
             </div>
           </div>
           <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
           </div>
         </div>
       </div>
@@ -387,8 +388,8 @@
             </div>
           </div>
           <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
           </div>
         </div>
       </div>
@@ -402,8 +403,8 @@
             </div>
           </div>
           <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
           </div>
         </div>
       </div>
@@ -417,8 +418,8 @@
             </div>
           </div>
           <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
           </div>
         </div>
       </div>
@@ -432,15 +433,15 @@
             </div>
           </div>
           <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
           </div>
         </div>
       </div>
     </div>
   </div>
 
-<div class="section banner banner-text" id="proposals-banner" style="background-color: #666;">
+<div class="section banner banner-text" id="proposals-banner" >
   <div class="container">
     <div class="row">
       <div class="col s12">
@@ -591,8 +592,8 @@
             </div>
           </div>
           <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
           </div>
         </div>
       </div>
@@ -606,8 +607,8 @@
             </div>
           </div>
           <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
           </div>
         </div>
       </div>
@@ -621,8 +622,8 @@
             </div>
           </div>
           <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
           </div>
         </div>
       </div>

@@ -35,10 +35,21 @@
 // ==========================================================================
 
 $primary-color: color("blue", "base") !default;
-$primary-color-light: lighten($primary-color, 15%) !default;
-$primary-color-dark: darken($primary-color, 15%) !default;
+$primary-color-light: color("blue", "lighten-1") !default;
+$primary-color-dark: color("blue", "darken-1") !default;
 
-$secondary-color: color("light-blue", "base") !default;
+$secondary-color: color("purple", "base") !default;
+$secondary-color-light: color("purple", "lighten-1")  !default;
+$secondary-color-dark: color("purple", "darken-1")  !default;
+
+
+$tertiary-color: color("light-blue", "base") !default;
+$tertiary-color-light: color("light-blue", "lighten-1") !default;
+$tertiary-color-dark: color("light-blue", "darken-1") !default;
+
+
+
+
 $success-color: color("green", "base") !default;
 $error-color: color("red", "base") !default;
 $link-color: color("blue", "lighten-1") !default;
@@ -59,9 +70,9 @@ $button-border: none !default;
 $button-background-focus: lighten($secondary-color, 4%) !default;
 $button-font-size: 12px !default;
 $button-icon-font-size: 1.3rem !default;
-$button-height: 38px !default;
+$button-height: 34px !default;
 $button-padding: 0 16px !default;
-$button-radius: 3px !default;
+$button-radius: 0px !default;
 
 // Disabled styles
 $button-disabled-background: #DFDFDF !default;
@@ -75,8 +86,8 @@ $button-raised-color: #fff !default;
 // Large buttons
 $button-large-font-size: 13px !default;
 $button-large-icon-font-size: 1.6rem !default;
-$button-large-height: 48px !default;
-$button-floating-large-size: 48px !default;
+$button-large-height: 46px !default;
+$button-floating-large-size: 46px !default;
 
 // Small buttons
 $button-small-font-size: 13px !default;
