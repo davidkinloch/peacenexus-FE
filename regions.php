@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<div class="section banner banner-text" id="region-banner" style="background-color: #666;">
+<div class="section banner banner-text" id="region-banner" >
   <div class="container">
     <div class="row">
       <div class="col s12">
@@ -16,7 +16,7 @@
 
 <div class="section countries">
   <div class="row">
-    <div class="col s6 l2 offset-l1">
+    <div class="col s6 xl2 offset-xl1">
       <div class="card">
         <div class="card-content">
           <h3 class="card-title">Central Asia</h3>
@@ -25,7 +25,7 @@
         </div>
       </div>
     </div>
-    <div class="col s6 l2">
+    <div class="col s6 xl2">
       <div class="card">
         <div class="card-content">
           <h3 class="card-title">South-East Asia</h3>
@@ -34,7 +34,7 @@
         </div>
       </div>
     </div>
-    <div class="col s6 l2">
+    <div class="col s6 xl2">
       <div class="card">
         <div class="card-content">
           <h3 class="card-title">West Balkans</h3>
@@ -43,7 +43,7 @@
         </div>
       </div>
     </div>
-    <div class="col s6 l2">
+    <div class="col s6 xl2">
       <div class="card">
         <div class="card-content">
           <h3 class="card-title">West Africa</h3>
@@ -52,7 +52,7 @@
         </div>
       </div>
     </div>
-    <div class="col s6 l2 offset-s3">
+    <div class="col s6 xl2 offset-s3">
       <div class="card">
         <div class="card-content">
           <h3 class="card-title">International</h3>
@@ -64,10 +64,10 @@
   </div>
 </div>
 <style type="text/css">
-  .main-nav li:nth-child(2) a {
-    background-color: rgba(0,0,0,0.1);
-    border-color: #FFF;
+  .main-nav li:nth-child(1) a {
+    border-color: #004480;
   }
+  .notification {display: none !important}
 </style>
 
 <?php include 'footer.php'; ?>

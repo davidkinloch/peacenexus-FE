@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<div class="section no-margin banner banner-text" id="partnername-banner" style="background-color: #666;">
+<div class="section no-margin banner banner-text" id="partnername-banner" >
   <div class="container">
     <div class="row">
       <div class="col s12">
@@ -20,6 +20,10 @@
         </div>
       </div>
     </div>
+    <div class="cta-block">
+      <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+      <a class="btn waves-effect waves-light" href="#">Inclusive Dialogue With Business</a>
+    </div>
   </div>
 </div>
 
@@ -29,20 +33,16 @@
 <div class="container">
   <div class="section">
     <div class="row">
-      <div class="col s12 m6">
-          <h2>Excepteur sint occaeuiecat cupidatat.</h2>
-          <p>.muroba ltsed minatill omtnuresed aiciffo iuq apluc ni tnus ,tnediorp niron tatadipuc taceacco tnis ruetpecxE .rutairap allun taiguf ue erolod mullic esse tilev etatpulov ylpneiu ni tiredneherper ni rolod eruri etuasiuD.tauqesn ocodom mocae epiuqila uisinsi obal itiropocm alluno itat crexe durtson siuq ,mai nev minim da mine tU .auqila angam erolod te erobal ore tu tnudidicni ropmetdom suieoddes,tilegnicisipidaru tetcesnoc,tematisrolo dmuspimeroL</p>
-          <p>.tauqes nocodommo caexepiuqil atuisinsi robalitiropo mallunoitatic rexe durts on siuq ,mainev minim da mine tU .auqila angam erolod te erobal ore tu tnudidicni ropm etdo msuieo des,tilegnicis ipidarutet esnoc,tematis rolodmusp imeroL</p>
-      </div>
-      <div class="col s12 m6 center">
+      <div class="col s12 center">
         <figure class="quote">
-          <img src="https://dummyimage.com/498x419/ccc/333.jpg" class="responsive-img"  alt="">
+          <img src="https://dummyimage.com/1200x400/ccc/333.jpg" class="responsive-img"  alt="">
           <figcaption class="quote__text valign-wrapper">
             <div class="row"> 
               <div class="col s10 offset-s1" >
                 <i class="material-icons">format_quote</i>
-                <blockquote>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus</blockquote>
-                <p>Company Name</p>
+                <blockquote>Morbi luctus tortor tellus. Aenean nec hendrerit tellus. Proin tristique condimentum ornare. Quisque lorem neque, congue quis imperdiet et, venenatis nec ante. Pellentesque vulputate arcu quam, nec fermentum neque tempor tincidunt. Nam ornare ornare lacus in vestibulum. Mauris varius viverra dui.</blockquote>
+                <p>Partner Name</p>
+                <i class="material-icons">format_quote</i>
               </div>
             </div>
           </figcaption>
@@ -52,91 +52,66 @@
   </div>
 </div>
 
-<div class="section decked">
+<div class="container">
+  <div class="section decked">
     <div class="row">
-      <div class="col s6 l2 offset-l1">
+      <div class="col s12 center">
+        <h2 class="blue-text">Highlights</h2>
+      </div>
+      <div class="col s6 l4">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img src="https://dummyimage.com/267x479/ccc/333.jpg" class="responsive-img"  alt="">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>
           </div>
           <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
           </div>
         </div>
       </div>
-      <div class="col s6 l2">
+      <div class="col s6 l4">
          <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img src="https://dummyimage.com/267x479/ccc/333.jpg" class="responsive-img"  alt="">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>
           </div>
           <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
           </div>
         </div>
       </div>
-      <div class="col s6 l2">
-         <div class="card">
-          <div class="card-image waves-effect waves-block waves-light">
-            <img src="https://dummyimage.com/267x479/ccc/333.jpg" class="responsive-img"  alt="">
-            <div class="card-content">
-              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
-              <a href="#">READ MORE</a>
-            </div>
-          </div>
-          <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
-          </div>
-        </div>
-      </div>
-      <div class="col s6 l2">
-         <div class="card">
-          <div class="card-image waves-effect waves-block waves-light">
-            <img src="https://dummyimage.com/267x479/ccc/333.jpg" class="responsive-img"  alt="">
-            <div class="card-content">
-              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
-              <a href="#">READ MORE</a>
-            </div>
-          </div>
-          <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
-          </div>
-        </div>
-      </div>
-      <div class="col s6 l2 offset-s3">
+      <div class="col s6 l4 offset-s3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img src="https://dummyimage.com/267x479/ccc/333.jpg" class="responsive-img"  alt="">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>
           </div>
           <div class="card-action">
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn btn-transparent waves-effect waves-light" href="#">Organisational development</a>
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
           </div>
         </div>
       </div>
     </div>
   </div>
+</div>
 
   <style type="text/css">
-  .main-nav li:nth-child(3) a {
-    background-color: rgba(0,0,0,0.1);
-    border-color: #FFF;
+ .main-nav li:nth-child(4) a {
+    border-color: #004480;
   }
+  .notification {display: none !important}
 </style>
 
 

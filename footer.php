@@ -3,37 +3,15 @@
     <div class="container">
       <div class="row">
         <div class="col s12 m3">
-           <h5 class="small">Contact</h5>
            <ul>
             <li><span><span class="tel" itemprop="telephone">00340700777777</span></span></li>
             <li><a href="mailto:info@peacenexus.org" class="email" itemprop="email">info@peacenexus.org</a></li>
           </ul>
         </div>
         <div class="col s12 m3">
-          <h5 class="small">Careers</h5>
           <ul>
-            <li>Join the team</li>
+            <li><a href="#">Careers</a></li>
             <li><a href="mailto:careers@peacenexus.org" class="email" itemprop="email">careers@peacenexus.org</a></li>
-          </ul>
-        </div>
-          <div class="col s12 m3">
-          <h5 class="small">Consulting Oppotunities</h5>
-          <ul>
-            <li>Get in touch</li>
-            <li><a href="mailto:careers@peacenexus.org" class="email" itemprop="email">careers@peacenexus.org</a></li>
-          </ul>
-        </div>
-        <div class="col s12 m3">
-          <ul class="social">
-              <li class="social__item">
-                  <a href="#" class="social__link"><img src="assets/src/instagram.svg" alt=""></a>
-              </li>
-              <li class="social__item">
-                  <a href="#" class="social__link"><img src="assets/src/twitter.svg" alt=""></a>
-              </li>
-              <li class="social__item">
-                  <a href="#" class="social__link"><img src="assets/src/facebook.svg" alt=""></a>
-              </li>
           </ul>
         </div>
       </div>
@@ -41,7 +19,11 @@
     </div>
     <div class="footer-copyright">
       <div class="container">
-        &copy; 2019 PeaceNexus Foundation <a href="#">Terms &amp; Conditions</a> <a href="#">Privacy</a><a class="right" href="#top"><img src="assets/src/up.svg" alt=""></a>
+        <div class="row">
+            <div class="col s12">
+              &copy; 2019 PeaceNexus Foundation <a href="#">Terms &amp; Conditions</a> <a href="#">Privacy</a><a class="right" href="#top"><img src="assets/src/up.svg" alt=""></a>
+            </div>
+        </div>
       </div>
     </div>
   </footer>

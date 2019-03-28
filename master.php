@@ -75,10 +75,10 @@
                 <img src="https://dummyimage.com/640x308/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
               </div>
                <div class="card-content">
-                <h3 class="card-title activator">Publications<i class="material-icons right">more_vert</i></h3>
+                <h3 class="card-title activator">Peace Investment Fund<i class="material-icons right">more_vert</i></h3>
               </div>
               <div class="card-reveal blue">
-                <h3 class="card-title">Publications<i class="material-icons right">close</i></h3>
+                <h3 class="card-title">Peace Investment Fund<i class="material-icons right">close</i></h3>
                 <p class="hide-on-small-only">Here is some more information about this product that is only revealed once clicked on.</p>
                 <a href="#" class="">Learn More</a>
               </div>
@@ -199,7 +199,8 @@
 </div>
 
 
-<div class="section banner banner-text" id="region-banner" >
+<div class="section banner banner-text" id="region-specific-banner">
+  <img class="map" src="assets/build/map.svg">
   <div class="container">
     <div class="row">
       <div class="col s12">
@@ -208,65 +209,69 @@
       </div>
     </div>
     <div class="row">
-      <div class="col s12">
+      <div class="col s12 m12 l6">
         <h1>Central Asia</h1>
-        <div class="text-column">
           <h2>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia consectetur adipisicing elit</h2>
           <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-          <p><img src="https://dummyimage.com/498x419/ccc/333.jpg" class="responsive-img"  alt=""></p>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s12 m6">
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
+      </div>
+      <div class="col s12 m6">
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat</p>
       </div>
     </div>
   </div>
 </div>
 
-<div class="section decked">
-  <div class="row">
-    <div class="col s12 m6 l4">
-      <div class="card">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img src="https://dummyimage.com/455x429/ccc/333.jpg" class="responsive-img"  alt="">
-          <div class="card-content">
-            <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
-            <a href="#">READ MORE</a>
+<div class="container">
+  <div class="section decked">
+    <div class="row">
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/455x429/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
           </div>
-        </div>
-        <div class="card-action">
-          <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
-          <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="col s12 m6 l4">
-      <div class="card">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img src="https://dummyimage.com/455x429/ccc/333.jpg" class="responsive-img"  alt="">
-          <div class="card-content">
-            <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
-            <a href="#">READ MORE</a>
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/455x429/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
           </div>
-        </div>
-        <div class="card-action">
-          <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
-          <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="col s12 m6 l4 offset-m3">
-      <div class="card">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img src="https://dummyimage.com/455x429/ccc/333.jpg" class="responsive-img"  alt="">
-          <div class="card-content">
-            <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
-            <a href="#">READ MORE</a>
+      <div class="col s12 m6 l4 offset-m3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/455x429/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
           </div>
-        </div>
-        <div class="card-action">
-          <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
-          <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
         </div>
       </div>
     </div>
@@ -329,6 +334,10 @@
         </div>
       </div>
     </div>
+    <div class="cta-block">
+      <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+      <a class="btn waves-effect waves-light" href="#">Inclusive Dialogue With Business</a>
+    </div>
   </div>
 </div>
 
@@ -338,20 +347,16 @@
 <div class="container">
   <div class="section">
     <div class="row">
-      <div class="col s12 m6">
-          <h2>Excepteur sint occaeuiecat cupidatat.</h2>
-          <p>.muroba ltsed minatill omtnuresed aiciffo iuq apluc ni tnus ,tnediorp niron tatadipuc taceacco tnis ruetpecxE .rutairap allun taiguf ue erolod mullic esse tilev etatpulov ylpneiu ni tiredneherper ni rolod eruri etuasiuD.tauqesn ocodom mocae epiuqila uisinsi obal itiropocm alluno itat crexe durtson siuq ,mai nev minim da mine tU .auqila angam erolod te erobal ore tu tnudidicni ropmetdom suieoddes,tilegnicisipidaru tetcesnoc,tematisrolo dmuspimeroL</p>
-          <p>.tauqes nocodommo caexepiuqil atuisinsi robalitiropo mallunoitatic rexe durts on siuq ,mainev minim da mine tU .auqila angam erolod te erobal ore tu tnudidicni ropm etdo msuieo des,tilegnicis ipidarutet esnoc,tematis rolodmusp imeroL</p>
-      </div>
-      <div class="col s12 m6 center">
+      <div class="col s12 center">
         <figure class="quote">
-          <img src="https://dummyimage.com/498x419/ccc/333.jpg" class="responsive-img"  alt="">
+          <img src="https://dummyimage.com/1200x400/ccc/333.jpg" class="responsive-img"  alt="">
           <figcaption class="quote__text valign-wrapper">
             <div class="row"> 
               <div class="col s10 offset-s1" >
                 <i class="material-icons">format_quote</i>
-                <blockquote>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus</blockquote>
-                <p>Company Name</p>
+                <blockquote>Morbi luctus tortor tellus. Aenean nec hendrerit tellus. Proin tristique condimentum ornare. Quisque lorem neque, congue quis imperdiet et, venenatis nec ante. Pellentesque vulputate arcu quam, nec fermentum neque tempor tincidunt. Nam ornare ornare lacus in vestibulum. Mauris varius viverra dui.</blockquote>
+                <p>Partner Name</p>
+                <i class="material-icons">format_quote</i>
               </div>
             </div>
           </figcaption>
@@ -361,12 +366,16 @@
   </div>
 </div>
 
-<div class="section decked">
+<div class="container">
+  <div class="section decked">
     <div class="row">
-      <div class="col s6 l2 offset-l1">
+      <div class="col s12 center">
+        <h2 class="blue-text">Highlights</h2>
+      </div>
+      <div class="col s6 l4">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img src="https://dummyimage.com/267x479/ccc/333.jpg" class="responsive-img"  alt="">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
@@ -378,10 +387,10 @@
           </div>
         </div>
       </div>
-      <div class="col s6 l2">
+      <div class="col s6 l4">
          <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img src="https://dummyimage.com/267x479/ccc/333.jpg" class="responsive-img"  alt="">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
@@ -393,40 +402,10 @@
           </div>
         </div>
       </div>
-      <div class="col s6 l2">
-         <div class="card">
-          <div class="card-image waves-effect waves-block waves-light">
-            <img src="https://dummyimage.com/267x479/ccc/333.jpg" class="responsive-img"  alt="">
-            <div class="card-content">
-              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
-              <a href="#">READ MORE</a>
-            </div>
-          </div>
-          <div class="card-action">
-            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
-          </div>
-        </div>
-      </div>
-      <div class="col s6 l2">
-         <div class="card">
-          <div class="card-image waves-effect waves-block waves-light">
-            <img src="https://dummyimage.com/267x479/ccc/333.jpg" class="responsive-img"  alt="">
-            <div class="card-content">
-              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
-              <a href="#">READ MORE</a>
-            </div>
-          </div>
-          <div class="card-action">
-            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
-            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
-          </div>
-        </div>
-      </div>
-      <div class="col s6 l2 offset-s3">
+      <div class="col s6 l4 offset-s3">
         <div class="card">
           <div class="card-image waves-effect waves-block waves-light">
-            <img src="https://dummyimage.com/267x479/ccc/333.jpg" class="responsive-img"  alt="">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
@@ -440,6 +419,191 @@
       </div>
     </div>
   </div>
+</div>
+
+
+<div class="section banner banner-text" id="highlights-banner" >
+  <div class="container">
+    <div class="row">
+      <div class="col s12 m10">
+        <h1>Highlights</h1>
+        <h2>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia consectetur adipisicing elit</h2>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="section filter">
+    <div class="row filter-btns">
+      <div class="col s12 m10">
+        <a class="btn btn-secondary btn-transparent waves-effect waves-light" href="#">Central Asia <i class="material-icons right">clear</i></a>
+        <a class="btn btn-secondary btn-transparent waves-effect waves-light" href="#">South East Asia <i class="material-icons right">clear</i></a>
+        <a class="btn btn-secondary btn-transparent waves-effect waves-light" href="#">Western Balkans <i class="material-icons right">clear</i></a>
+        <a class="btn btn-secondary waves-effect waves-light" href="#">West Africa <i class="material-icons right">add</i></a>
+        <a class="btn btn-secondary waves-effect waves-light" href="#">International <i class="material-icons right">add</i></a>
+      </div>
+    </div>
+    <div class="row filter-btns">
+      <div class="col s12 m10 l9">
+        <a class="btn btn-primary btn-transparent waves-effect waves-light" href="#">Organisational Development <i class="material-icons right">clear</i></a>
+        <a class="btn btn-primary btn-transparent waves-effect waves-light" href="#">Conflict Sensitivity <i class="material-icons right ">clear</i></a>
+        <a class="btn btn-primary waves-effect waves-light" href="#">Inclusive Dialogue With Business <i class="material-icons right">add</i></a>
+      </div>
+      <div class="col s12 l3">
+        <a class='dropdown-trigger btn btn-large btn-filter' href='#' data-target='dropdown-highlight'><i class="material-icons right">keyboard_arrow_down</i> Latest Highlights</a>
+        <!-- Dropdown Structure -->
+        <ul id='dropdown-highlight' class='dropdown-content'>
+          <li><a href="#!">Oldest first</a></li>
+          <li><a href="#!">Newest first</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="row decked">
+      <div class="col s6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s6 l4">
+         <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s6 l4">
+         <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s6 l4">
+         <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s6 l4">
+         <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s6 l4">
+         <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s6 l4 offset-s3">
+         <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s12 center">
+        <a class="btn btn-transparent waves-effect waves-dark btn-loadmore">Load More Highlights</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="section banner banner-text" id="proposals-banner" >
   <div class="container">
@@ -466,25 +630,25 @@
         <li class="tab col s3">
           <a class="active" href="#focus-1">
             <span>Step One</span>
-            <h2>1. Focus Areas</h2>
+            <h3>1. What We Support</h3>
           </a>
         </li>
         <li class="tab col s3">
           <a href="#focus-2">
             <span>Step Two</span>
-            <h2>2. Eligibility</h2>
+            <h3>2. Are you eligible?</h3>
           </a>
         </li>
         <li class="tab col s3">
           <a href="#focus-3">
             <span>Step Three</span>
-            <h2>3. Timelines</h2>
+            <h3>3. When &amp; how to apply</h3>
           </a>
         </li>
         <li class="tab col s3">
           <a href="#focus-4">
             <span>Step Four</span>
-            <h2>4. Apply</h2>
+            <h3>4. Apply here</h3>
           </a>
         </li>
       </ul>
@@ -492,23 +656,26 @@
     <div class="row tab-content">
       <div id="focus-1" class="col s12">
         <div class="row">
-          <div class="col s12 m6 l3 offset-l3">
-            <h3>Organisational Development</h3>
+          <div class="col s12 m4">
+            <h4>Organisational Development</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <a href="#" class="btn btn-flat">Lorem ipsum dolor sit amet</a>
-            <a href="#" class="btn btn-flat">Consectetur</a>
+            <a href="#" class="btn btn-transparent btn-large">Consectetur</a>
           </div>
-          <div class="col s12 m6 l3">
-            <h3>Conflict Sensitivity</h3>
+          <div class="col s12 m4">
+            <h4>Conflict Sensitivity</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <a href="#" class="btn btn-flat">Lorem ipsum dolor sit amet</a>
-            <a href="#" class="btn btn-flat">Consectetur</a>
+            <a href="#" class="btn btn-transparent btn-large">Consectetur</a>
           </div>
-          <div class="col s12 m6 l3 offset-m3">
-            <h3>Inclusive Dialogue with Business</h3>
+          <div class="col s12 m4">
+            <h4>Inclusive Dialogue with Business</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <a href="#" class="btn btn-flat">Lorem ipsum dolor sit amet</a>
-            <a href="#" class="btn btn-flat">Consectetur</a>
+            <a href="#" class="btn btn-transparent btn-large">Consectetur</a>
           </div>
         </div>
       </div>
@@ -552,26 +719,31 @@
       </div>
       <div id="focus-4" class="col s12">
         <div class="row">
-          <div class="col s12 l9 offset-l3">
+          <div class="col s12 l6">
             <h3>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia consectetur adipisicing elit.</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           </div>
-        </div>
-        <div class="row">
-          <div class="col s12 m6 l3 offset-l3">
-            <h3>Organisational Development</h3>
-            <a href="#" class="btn  waves-effect waves-light">Download Application</a>
-            <a href="#" class="btn btn-transparent waves-effect waves-light">Concept Note &amp; FAQs</a>
-          </div>
-          <div class="col s12 m6 l3">
-            <h3>Conflict Sensitivity</h3>
-            <a href="#" class="btn waves-effect waves-light">Lorem ipsum dolor sit amet</a>
-            <a href="#" class="btn btn-transparent waves-effect waves-light">Concept Note &amp; FAQs</a>
-          </div>
-          <div class="col s12 m6 l3 offset-m3">
-            <h3>Inclusive Dialogue with Business</h3>
-            <a href="#" class="btn waves-effect waves-light">Lorem ipsum dolor sit amet</a>
-            <a href="#" class="btn btn-transparent waves-effect waves-light">Concept Note &amp; FAQs</a>
+
+          <div class="col s12 l6">
+            <div class="row">
+              <div class="col s12">
+                  <h5>Organisational Development</h5>
+                  <div class="cta-block">
+                    <a href="#" class="btn btn-transparent waves-effect waves-light">Concept Note &amp; FAQs</a>
+                    <a href="#" class="btn  waves-effect waves-light">Apply Here</a>
+                  </div>
+                  <h5>Conflict Sensitivity</h5>
+                  <div class="cta-block">
+                    <a href="#" class="btn btn-transparent waves-effect waves-light">Concept Note &amp; FAQs</a>
+                    <a href="#" class="btn  waves-effect waves-light">Apply Here</a>
+                  </div>
+                  <h5>Inclusive Dialogue with Business</h5>
+                  <div class="cta-block">
+                    <a href="#" class="btn btn-transparent waves-effect waves-light">Concept Note &amp; FAQs</a>
+                    <a href="#" class="btn  waves-effect waves-light">Apply Here</a>
+                  </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -631,6 +803,180 @@
   </div>
 </div>
 
+<div class="section banner banner-text" id="team-banner" >
+  <div class="container">
+    <div class="row">
+      <div class="col s12 m6">
+        <h1>Team</h1>
+        <h2>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia consectetur adipisicing elit</h2>
+        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col s12">
+        <a class='dropdown-trigger btn btn-large btn-filter' href='#' data-target='dropdown-team'><i class="material-icons right">keyboard_arrow_down</i> Filter by Department</a>
+        <!-- Dropdown Structure -->
+        <ul id='dropdown-team' class='dropdown-content'>
+          <li><a href="#!">Directors</a></li>
+          <li><a href="#!">Project Management</a></li>
+          <li><a href="#!">Consultants</a></li>
+          <li><a href="#!">Marketing</a></li>
+          <li><a href="#!">Finance &amp; Supprt</a></li>
+          <li><a href="#!">View All</a></li>
+        </ul>
+      </div>
+  </div>
+
+  <div class="section jigsaw">
+    <div class="row">
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
+          </div>
+          <div class="card-content">
+            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
+          </div>
+          <div class="card-reveal blue">
+            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
+            <a href="#" class="">Connect on Linkedin</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
+          </div>
+          <div class="card-content">
+            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
+          </div>
+          <div class="card-reveal blue">
+            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
+            <a href="#" class="">Connect on Linkedin</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
+          </div>
+          <div class="card-content">
+            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
+          </div>
+          <div class="card-reveal blue">
+            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
+            <a href="#" class="">Connect on Linkedin</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
+          </div>
+          <div class="card-content">
+            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
+          </div>
+          <div class="card-reveal blue">
+            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
+            <a href="#" class="">Connect on Linkedin</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
+          </div>
+          <div class="card-content">
+            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
+          </div>
+          <div class="card-reveal blue">
+            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
+            <a href="#" class="">Connect on Linkedin</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
+          </div>
+          <div class="card-content">
+            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
+          </div>
+          <div class="card-reveal blue">
+            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
+            <a href="#" class="">Connect on Linkedin</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
+          </div>
+          <div class="card-content">
+            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
+          </div>
+          <div class="card-reveal blue">
+            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
+            <a href="#" class="">Connect on Linkedin</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
+          </div>
+          <div class="card-content">
+            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
+          </div>
+          <div class="card-reveal blue">
+            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
+            <a href="#" class="">Connect on Linkedin</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
+          </div>
+          <div class="card-content">
+            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
+          </div>
+          <div class="card-reveal blue">
+            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
+            <a href="#" class="">Connect on Linkedin</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col s12 center">
+        <a class="btn btn-transparent waves-effect waves-dark btn-loadmore">Load More Highlights</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 <?php include 'footer.php'; ?>
 

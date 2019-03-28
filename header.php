@@ -30,11 +30,12 @@
               
              
               <ul class="main-nav right hide-on-med-and-down">
-                <li><a href="#">About</a></li>
+                
                 <li><a href="regions.php">Regions</a></li>
-                <li><a href="services.php">Services</a></li>
-                <li><a href="#">Resources</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="regions-detail.php">Region Detail</a></li>
+                <li><a href="highlights.php">Highlights</a></li>
+                <li><a href="partners.php">Partners</a></li>
+                <li><a href="team.php">Team</a></li>
                 <li class="item-search">
                     <form>
                       <div class="input-field">
@@ -63,11 +64,11 @@
              <div class="callout">Open in January 2020</div>
 
               <ul id="nav-mobile" class="sidenav">
-                  <li><a href="#">About</a></li>
                   <li><a href="regions.php">Regions</a></li>
-                  <li><a href="services.php">Services</a></li>
-                  <li><a href="#">Resources</a></li>
-                  <li><a href="#">Contact</a></li>
+                  <li><a href="regions-detail.php">Region Detail</a></li>
+                  <li><a href="highlights.php">Highlights</a></li>
+                  <li><a href="partners.php">Partners</a></li>
+                  <li><a href="teamp.php">Team</a></li>
                   <li class="sidenav-search">
                     <form>
                       <div class="input-field">
@@ -89,7 +90,7 @@
                       </div>
                     </form>
                   </li>
-                  <li><a href="proposals.php" class="btn btn-transparent">Call For Proposals</a></li>
+                  <li><a href="proposals.php" class="btn btn-tertiary waves-effect waves-light">Call For Proposals</a></li>
                 </ul>
               <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
             </div>
