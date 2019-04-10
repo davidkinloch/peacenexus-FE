@@ -18,7 +18,7 @@
         <meta name="theme-color" content="#004480">
         <!--Import Google Icon Font-->
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:600" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:600" rel="stylesheet">
         <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
 
     </head>

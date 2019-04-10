@@ -3,10 +3,11 @@
 <div class="section no-pad-bot banner" id="index-banner" style="background-image: url(https://dummyimage.com/1440x530/ccc/333.jpg);">
   <div class="container valign-wrapper">
     <div class="row center">
-      <div class="col s12 m6 offset-m3">
-        <h1 class="blue-text">Peace Nexus</h1>
-        <h2 class="blue-text">tnuresed aiciffo iuq apluc ni tnus ,tnediorp non tatadipuc taceacco tnis ruetpecxE</h2>
-        <a href="#" class="btn-large waves-effect waves-light">Call to Action</a>
+      <div class="col s12 m8 offset-m2 light-blue">
+        <div class="banner-center"> 
+          <h1 class="white-text">Peace Nexus</h1>
+          <h2 class="white-text">tnuresed aiciffo iuq apluc ni tnus ,tnediorp non tatadipuc taceacco tnis ruetpecxE</h2>
+        </div>
       </div>
     </div>
   </div>
@@ -26,12 +27,7 @@
             <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
           </div>
           <div class="card-content">
-            <h3 class="card-title activator">Mission<i class="material-icons right">more_vert</i></h3>
-          </div>
-          <div class="card-reveal blue">
-            <h3 class="card-title">Mission<i class="material-icons right">close</i></h3>
-            <p>Here is some more information about this product that is only revealed once clicked on.</p>
-            <a href="#" class="">Learn More</a>
+            <h3 class="card-title activator">Mission</h3>
           </div>
         </div>
       </div>
@@ -43,12 +39,7 @@
                 <img src="https://dummyimage.com/640x640/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
               </div>
                <div class="card-content">
-                <h3 class="card-title activator">Regions<i class="material-icons right">more_vert</i></h3>
-              </div>
-              <div class="card-reveal blue">
-                <h3 class="card-title">Regions<i class="material-icons right">close</i></h3>
-                <p>Here is some more information about this product </p>
-                <a href="#" class="">Learn More</a>
+                <h3 class="card-title activator">Regions</h3>
               </div>
             </div>
           </div>
@@ -58,12 +49,7 @@
                 <img src="https://dummyimage.com/640x640/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
               </div>
                <div class="card-content">
-                <h3 class="card-title activator">Services<i class="material-icons right">more_vert</i></h3>
-              </div>
-              <div class="card-reveal blue">
-                <h3 class="card-title">Services<i class="material-icons right">close</i></h3>
-                <p>Here is some more information about this product</p>
-                <a href="#" class="">Learn More</a>
+                <h3 class="card-title activator">Services</h3>
               </div>
             </div>
           </div>
@@ -75,12 +61,7 @@
                 <img src="https://dummyimage.com/640x308/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
               </div>
                <div class="card-content">
-                <h3 class="card-title activator">Peace Investment Fund<i class="material-icons right">more_vert</i></h3>
-              </div>
-              <div class="card-reveal blue">
-                <h3 class="card-title">Peace Investment Fund<i class="material-icons right">close</i></h3>
-                <p class="hide-on-small-only">Here is some more information about this product that is only revealed once clicked on.</p>
-                <a href="#" class="">Learn More</a>
+                <h3 class="card-title activator">Peace Investment Fund</h3>
               </div>
             </div>
           </div>
@@ -88,6 +69,60 @@
       </div>
     </div>
   </div>
+
+   <div class="section decked">
+    <div class="row">
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/455x429/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <h3 class="small">Partner Name</h3>
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/455x429/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <h3 class="small">Partner Name</h3>
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+      <div class="col s12 m6 l4 offset-m3">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img src="https://dummyimage.com/455x429/ccc/333.jpg" class="responsive-img"  alt="">
+            <div class="card-content">
+              <h3 class="small">Partner Name</h3>
+              <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
+              <a href="#">READ MORE</a>
+            </div>
+          </div>
+          <div class="card-action">
+            <a class="btn btn-secondary waves-effect waves-light" href="#">Central Asia</a>
+            <a class="btn waves-effect waves-light" href="#">Organisational development</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
 
   <div class="section services">
     <!--   Icon Section   -->
@@ -349,13 +384,13 @@
     <div class="row">
       <div class="col s12 center">
         <figure class="quote">
-          <img src="https://dummyimage.com/1200x400/ccc/333.jpg" class="responsive-img"  alt="">
+          <img src="https://dummyimage.com/1200x400/E1E1E1/E1E1E1.jpg" class="responsive-img"  alt="">
           <figcaption class="quote__text valign-wrapper">
             <div class="row"> 
               <div class="col s10 offset-s1" >
                 <i class="material-icons">format_quote</i>
                 <blockquote>Morbi luctus tortor tellus. Aenean nec hendrerit tellus. Proin tristique condimentum ornare. Quisque lorem neque, congue quis imperdiet et, venenatis nec ante. Pellentesque vulputate arcu quam, nec fermentum neque tempor tincidunt. Nam ornare ornare lacus in vestibulum. Mauris varius viverra dui.</blockquote>
-                <p>Partner Name</p>
+                <p class="small">Partner Name</p>
                 <i class="material-icons">format_quote</i>
               </div>
             </div>
@@ -370,7 +405,7 @@
   <div class="section decked">
     <div class="row">
       <div class="col s12 center">
-        <h2 class="blue-text">Highlights</h2>
+        <h2 class="blue-text size-h1">Highlights</h2>
       </div>
       <div class="col s6 l4">
         <div class="card">
@@ -616,8 +651,9 @@
     <div class="row">
       <div class="col s12 m6">
         <h1>Calls for Proposals</h1>
+      </div>
+      <div class="col s12 m6">
         <h2>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia consectetur adipisicing elit</h2>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
       </div>
     </div>
   </div>
@@ -660,21 +696,21 @@
             <h4>Organisational Development</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="#" class="btn btn-flat">Lorem ipsum dolor sit amet</a>
+            <a href="#" class="link">Lorem ipsum dolor sit amet</a>
             <a href="#" class="btn btn-transparent btn-large">Consectetur</a>
           </div>
           <div class="col s12 m4">
             <h4>Conflict Sensitivity</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="#" class="btn btn-flat">Lorem ipsum dolor sit amet</a>
+            <a href="#" class="link">Lorem ipsum dolor sit amet</a>
             <a href="#" class="btn btn-transparent btn-large">Consectetur</a>
           </div>
           <div class="col s12 m4">
             <h4>Inclusive Dialogue with Business</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="#" class="btn btn-flat">Lorem ipsum dolor sit amet</a>
+            <a href="#" class="link">Lorem ipsum dolor sit amet</a>
             <a href="#" class="btn btn-transparent btn-large">Consectetur</a>
           </div>
         </div>
@@ -684,13 +720,13 @@
          <div class="col s12 m6 l4 offset-l3">
             <h3>Organisational Development</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="#" class="btn btn-flat">Lorem ipsum dolor sit amet</a>
+            <a href="#" class="link">Lorem ipsum dolor sit amet</a>
             <a href="#" class="btn btn-flat">Consectetur</a>
           </div>
           <div class="col s12 m6 l5">
             <h3>Conflict Sensitivity</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="#" class="btn btn-flat">Lorem ipsum dolor sit amet</a>
+            <a href="#" class="link">Lorem ipsum dolor sit amet</a>
             <a href="#" class="btn btn-flat">Consectetur</a>
           </div>
         </div>
@@ -700,19 +736,19 @@
          <div class="col s12 l3 offset-l3">
             <h3>Organisational Development</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="#" class="btn btn-flat">Lorem ipsum dolor sit amet</a>
+            <a href="#" class="link">Lorem ipsum dolor sit amet</a>
             <a href="#" class="btn btn-flat">Consectetur</a>
           </div>
           <div class="col s12 l3">
             <h3>Conflict Sensitivity</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="#" class="btn btn-flat">Lorem ipsum dolor sit amet</a>
+            <a href="#" class="link">Lorem ipsum dolor sit amet</a>
             <a href="#" class="btn btn-flat">Consectetur</a>
           </div>
           <div class="col s12 l3">
             <h3>Inclusive Dialogue with Business</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="#" class="btn btn-flat">Lorem ipsum dolor sit amet</a>
+            <a href="#" class="link">Lorem ipsum dolor sit amet</a>
             <a href="#" class="btn btn-flat">Consectetur</a>
           </div>
         </div>
@@ -832,7 +868,7 @@
       </div>
   </div>
 
-  <div class="section jigsaw">
+  <div class="section teamgrid">
     <div class="row">
       <div class="col s12 m6 l4">
         <div class="card">
@@ -840,10 +876,8 @@
             <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
           </div>
           <div class="card-content">
-            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
-          </div>
-          <div class="card-reveal blue">
-            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <h5 class="small">Musician</h5>
+            <h3 class="card-title">Gordon Summer</h3>
             <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
             <a href="#" class="">Connect on Linkedin</a>
           </div>
@@ -855,10 +889,8 @@
             <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
           </div>
           <div class="card-content">
-            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
-          </div>
-          <div class="card-reveal blue">
-            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <h5 class="small">Musician</h5>
+            <h3 class="card-title">Gordon Summer</h3>
             <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
             <a href="#" class="">Connect on Linkedin</a>
           </div>
@@ -870,10 +902,8 @@
             <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
           </div>
           <div class="card-content">
-            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
-          </div>
-          <div class="card-reveal blue">
-            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <h5 class="small">Musician</h5>
+            <h3 class="card-title">Gordon Summer</h3>
             <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
             <a href="#" class="">Connect on Linkedin</a>
           </div>
@@ -885,10 +915,8 @@
             <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
           </div>
           <div class="card-content">
-            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
-          </div>
-          <div class="card-reveal blue">
-            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <h5 class="small">Musician</h5>
+            <h3 class="card-title">Gordon Summer</h3>
             <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
             <a href="#" class="">Connect on Linkedin</a>
           </div>
@@ -900,10 +928,8 @@
             <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
           </div>
           <div class="card-content">
-            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
-          </div>
-          <div class="card-reveal blue">
-            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <h5 class="small">Musician</h5>
+            <h3 class="card-title">Gordon Summer</h3>
             <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
             <a href="#" class="">Connect on Linkedin</a>
           </div>
@@ -915,10 +941,8 @@
             <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
           </div>
           <div class="card-content">
-            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
-          </div>
-          <div class="card-reveal blue">
-            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <h5 class="small">Musician</h5>
+            <h3 class="card-title">Gordon Summer</h3>
             <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
             <a href="#" class="">Connect on Linkedin</a>
           </div>
@@ -930,10 +954,8 @@
             <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
           </div>
           <div class="card-content">
-            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
-          </div>
-          <div class="card-reveal blue">
-            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <h5 class="small">Musician</h5>
+            <h3 class="card-title">Gordon Summer</h3>
             <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
             <a href="#" class="">Connect on Linkedin</a>
           </div>
@@ -945,10 +967,8 @@
             <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
           </div>
           <div class="card-content">
-            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
-          </div>
-          <div class="card-reveal blue">
-            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <h5 class="small">Musician</h5>
+            <h3 class="card-title">Gordon Summer</h3>
             <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
             <a href="#" class="">Connect on Linkedin</a>
           </div>
@@ -960,10 +980,8 @@
             <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
           </div>
           <div class="card-content">
-            <h3 class="card-title activator">Gordon Summer<Br>Musician<i class="material-icons right">more_vert</i></h3>
-          </div>
-          <div class="card-reveal blue">
-            <h3 class="card-title"><i class="material-icons right">close</i>Gordon Summer<br>Musician</h3>
+            <h5 class="small">Musician</h5>
+            <h3 class="card-title">Gordon Summer</h3>
             <p><strong>Gordon Matthew Thomas Sumner CBE</strong> (born 2 October 1951), known as Sting, is an English musician, singer, songwriter, and actor.He was the principal songwriter, lead singer, and bassist for the new wave rock band the Police from 1977 to 1984.</p>
             <a href="#" class="">Connect on Linkedin</a>
           </div>

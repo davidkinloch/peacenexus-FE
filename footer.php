@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col s12 m3">
            <ul>
-            <li><span><span class="tel" itemprop="telephone">00340700777777</span></span></li>
+            <li><span><span class="tel" itemprop="telephone">+41 22 365 1500</span></span></li>
             <li><a href="mailto:info@peacenexus.org" class="email" itemprop="email">info@peacenexus.org</a></li>
           </ul>
         </div>

@@ -1,6 +1,22 @@
+html {
+  color: #666666;
+}
+
+strong {
+  font-weight: 600;
+}
+
+p {
+  font-size: 1.067rem
+}
+
+.size-h1 {
+ font-size: 2.533rem;  
+}
+
 .header {
   position: relative;
-  font-family: $font-special;
+  font-family: $font-stack;
 }
 
 .brand-logo {
@@ -14,7 +30,12 @@
 .btn {
   box-shadow: none;
   overflow: hidden;
+  &-large {
+    font-size: 13px;
+  }
 }
+
+
 
 .btn-transparent {
   border: 2px solid $primary-color;
@@ -95,8 +116,13 @@
 
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: $font-serif;
+  font-family: $font-special;
+  font-weight: 600;
   margin: 0 0 30px;
+}
+
+h1 {
+  font-size: 2.533rem;
 }
 
 .sidenav {
@@ -142,6 +168,7 @@ h1,h2,h3,h4,h5,h6 {
     width: 50px;
     .select-dropdown.dropdown-trigger {
       color: $primary-color;
+      font-size: 12px;
       border-bottom: none;
       @media #{$large-and-up} {
         height: 50px;
@@ -157,7 +184,10 @@ h1,h2,h3,h4,h5,h6 {
 .nav-wrapper {
   li {
     position: relative;
-    z-index: 10
+    z-index: 10;
+    font-family: $font-stack;
+    font-size: 14px;
+    font-weight: 400;
   }
   .item-search {
     height: 50px;
@@ -291,7 +321,8 @@ nav {
     display: none;
     @media #{$extra-large-and-up} {
       display: block;
-      font-size: .9em;
+      font-size: 16px;
+      font-weight: bold;
       color: $tertiary-color;
       position: absolute;
       right: 16px;
@@ -345,7 +376,7 @@ nav {
 .notification {
   height: 50px;
   background: $primary-color;
-  font-size: 13px;
+  font-size: 16px;
   color: #FFF;
   margin-bottom: 0;
   padding-top: 11.5px;
@@ -367,6 +398,15 @@ nav {
     position: relative;
     overflow: hidden;
   }
+  h2 {
+    font-size: 1.333rem;
+    font-family: $font-stack;
+    font-weight: 700;
+    line-height: 1.5;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
   &-text {
     height: auto;
     padding: 50px 0;
@@ -376,12 +416,15 @@ nav {
     @media #{$large-and-up} {  
       .text-column {
         column-count: 2;
-        column-gap: 30px;
+        column-gap: 96px;
       }
     }
     h1, h2, p, a {
       color: #FFF;
     }
+  }
+  &-center {
+    padding: 50px 0;
   }
   .map {
     position: absolute;
@@ -391,6 +434,9 @@ nav {
   }
 }
 
+#index-banner {
+
+}
 #highlights-banner {
   background: transparent;
   padding-bottom: 0;
@@ -430,38 +476,23 @@ nav {
   }
   .card-content {
     position: absolute;
-    bottom: 0;
+    top: 0;
     left: 0;
+    height: 100%;
     width: 100%;
     z-index: 3;
-    padding: 12px;
-    @media #{$large-and-up} {
-      padding: 24px;
+    border: 10px solid transparent;
+    transition: all .3s ease-in-out;
+    &:hover {
+      border-color: $tertiary-color;
     }
-  }
-  h3 {
-    color: $primary-color;
-  }
-  .card-reveal {
-    padding: 12px;
-    @media #{$large-and-up} {
-      padding: 24px;
-    }
-    h3, p, a {
-    color: #FFF;
-    }
-    h3 {
-      margin-bottom: 16px;
-    }
-    .card-subtitle {
-      font-family: $font-serif;
-      font-size: 1.6rem;
-      color: #FFF;
-    }
-    a {
+    .card-title {
+      color: $primary-color;
+      font-size: 2.533rem;
       position: absolute;
-      bottom: 32px;
-      border-bottom: 1px solid #FFF;
+      left: 34px;
+      bottom: 28px;
+      margin: 0;
     }
   }
 }
@@ -488,6 +519,7 @@ nav {
         margin-bottom: 30px;
         color: $primary-color;
         word-break: break-all;
+        font-size: 1.467rem
       }
       p {
         margin-bottom: 30px;
@@ -524,13 +556,13 @@ nav {
     }
     p {
       margin-bottom: 10px;
-      @media #{$extra-large-and-up} {
-         font-size: 1.1em;
-      }
+      font-size: 1.067rem;
+      line-height: 1.5;
     }
     a {
       border-bottom: 1px solid $primary-color;
       text-transform: uppercase;
+      font-size: 0.9333rem;
     }
   }
   .card-action {
@@ -562,6 +594,13 @@ nav {
   }
   h2 {
     color: $primary-color;
+    font-size: 2.533rem;
+  }
+  &__menu {
+    font-size: 1.333rem;
+    li {
+      margin-bottom: 5px;
+    }
   }
   .material-icons {
     vertical-align: middle;
@@ -675,6 +714,11 @@ nav {
   .row .col {
     margin-bottom: 32px;
   }
+  h4 {
+    color: $primary-color;
+    font-family: $font-special;
+    font-size: 1.333rem;
+  }
   h5 {
     color: $primary-color;
     font-family: $font-stack;
@@ -686,19 +730,28 @@ nav {
     padding: 0;
     margin-bottom: 30px;
   }
+  .link {
+    display: block;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #666666;
+    margin-bottom: 12px;
+    margin-top: 12px;
+  }
 }
 
 .small {
-  font-family: $font-stack;
-  color: #797979;
-  font-size: 13px;
+  font-family: $font-special;
+  color: #666666;
+  font-size: 0.9333rem;
   text-transform: uppercase;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .breadcrumb {
-  font-size: 14px;
-  line-height: 14px;
+  font-size: 12px;
+  line-height: 12px;
+  font-weight: bold;
   &:before {
     vertical-align: middle;
   }
@@ -763,5 +816,11 @@ nav {
     img {
       height: 20px;
     }
+  }
+}
+
+.teamgrid {
+  .small {
+    margin-bottom: 12px;
   }
 }
