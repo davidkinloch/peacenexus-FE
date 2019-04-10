@@ -1,5 +1,4 @@
 <?php include 'header.php'; ?>
-
 <div class="section banner banner-text" id="region-banner" >
   <div class="container">
     <div class="row">
@@ -16,12 +15,12 @@
 
 <div class="section countries">
   <div class="row">
-    <div class="col s6 xl2 offset-xl1">
+    <div class="col s6 xl2">
       <div class="card">
         <div class="card-content">
           <h3 class="card-title">Central Asia</h3>
           <p>.dalkurtson siuq ,maineev minim poeda mine tU .auqila anam ipior erolod te erobal tu.</p>
-          <a class="btn btn-transparent waves-effect waves-light" href="regions-detail.php">Learn More</a>
+          <a class="btn btn-transparent waves-effect waves-light" href="#">Learn More</a>
         </div>
       </div>
     </div>
@@ -30,7 +29,7 @@
         <div class="card-content">
           <h3 class="card-title">South-East Asia</h3>
           <p>.dalkurtson siuq ,maineev minim poeda mine tU .auqila anam ipior erolod te erobal tu.</p>
-          <a class="btn btn-transparent waves-effect waves-light" href="regions-detail.php">Learn More</a>
+          <a class="btn btn-transparent waves-effect waves-light" href="#">Learn More</a>
         </div>
       </div>
     </div>
@@ -39,7 +38,7 @@
         <div class="card-content">
           <h3 class="card-title">West Balkans</h3>
           <p>.dalkurtson siuq ,maineev minim poeda mine tU .auqila anam ipior erolod te erobal tu.</p>
-          <a class="btn btn-transparent waves-effect waves-light" href="regions-detail.php">Learn More</a>
+          <a class="btn btn-transparent waves-effect waves-light" href="#">Learn More</a>
         </div>
       </div>
     </div>
@@ -48,7 +47,7 @@
         <div class="card-content">
           <h3 class="card-title">West Africa</h3>
           <p>.dalkurtson siuq ,maineev minim poeda mine tU .auqila anam ipior erolod te erobal tu.</p>
-          <a class="btn btn-transparent waves-effect waves-light" href="regions-detail.php">Learn More</a>
+          <a class="btn btn-transparent waves-effect waves-light" href="#">Learn More</a>
         </div>
       </div>
     </div>
@@ -57,7 +56,7 @@
         <div class="card-content">
           <h3 class="card-title">International</h3>
           <p>.dalkurtson siuq ,maineev minim poeda mine tU .auqila anam ipior erolod te erobal tu.</p>
-          <a class="btn btn-transparent waves-effect waves-light" href="regions-detail.php">Learn More</a>
+          <a class="btn btn-transparent waves-effect waves-light" href="#">Learn More</a>
         </div>
       </div>
     </div>

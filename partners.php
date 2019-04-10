@@ -35,13 +35,13 @@
     <div class="row">
       <div class="col s12 center">
         <figure class="quote">
-          <img src="https://dummyimage.com/1200x400/ccc/333.jpg" class="responsive-img"  alt="">
+          <img src="https://dummyimage.com/1200x400/E1E1E1/E1E1E1.jpg" class="responsive-img"  alt="">
           <figcaption class="quote__text valign-wrapper">
             <div class="row"> 
               <div class="col s10 offset-s1" >
                 <i class="material-icons">format_quote</i>
                 <blockquote>Morbi luctus tortor tellus. Aenean nec hendrerit tellus. Proin tristique condimentum ornare. Quisque lorem neque, congue quis imperdiet et, venenatis nec ante. Pellentesque vulputate arcu quam, nec fermentum neque tempor tincidunt. Nam ornare ornare lacus in vestibulum. Mauris varius viverra dui.</blockquote>
-                <p>Partner Name</p>
+                <p class="small">Partner Name</p>
                 <i class="material-icons">format_quote</i>
               </div>
             </div>
@@ -56,7 +56,7 @@
   <div class="section decked">
     <div class="row">
       <div class="col s12 center">
-        <h2 class="blue-text">Highlights</h2>
+        <h2 class="blue-text size-h1">More Highlights</h2>
       </div>
       <div class="col s6 l4">
         <div class="card">
@@ -106,6 +106,7 @@
     </div>
   </div>
 </div>
+
 
   <style type="text/css">
  .main-nav li:nth-child(4) a {

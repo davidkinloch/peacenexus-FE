@@ -11,7 +11,7 @@
         <div class="col s12 m3">
           <ul>
             <li><a href="#">Careers</a></li>
-            <li><a href="mailto:careers@peacenexus.org" class="email" itemprop="email">careers@peacenexus.org</a></li>
+            <li><a href="#">Consulting Opportunities</a></li>
           </ul>
         </div>
       </div>

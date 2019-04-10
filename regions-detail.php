@@ -1,5 +1,7 @@
 <?php include 'header.php'; ?>
 
+
+
 <div class="section banner banner-text" id="region-specific-banner">
   <img class="map" src="assets/build/map.svg">
   <div class="container">

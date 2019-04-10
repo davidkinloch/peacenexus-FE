@@ -32,8 +32,8 @@
         <a class='dropdown-trigger btn btn-large btn-filter' href='#' data-target='dropdown-highlight'><i class="material-icons right">keyboard_arrow_down</i> Latest Highlights</a>
         <!-- Dropdown Structure -->
         <ul id='dropdown-highlight' class='dropdown-content'>
-          <li><a href="#!">Oldest first</a></li>
-          <li><a href="#!">Newest first</a></li>
+          <li><a href="#!">Latest Highlights</a></li>
+          <li><a href="#!">Highlights A-Z</a></li>
         </ul>
       </div>
     </div>

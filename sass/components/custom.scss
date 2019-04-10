@@ -301,15 +301,17 @@ nav {
     }
     a {
       height: 50px;
-      padding:  0 10px;
+      margin:  0 10px;
+      padding: 0;
       border-bottom: transparent 4px solid; 
       transition: all .15s ease-in-out;
       &.btn {
         border: none;
         line-height: 50px;
+        padding: 0 20px;
       }
       @media #{$extra-large-and-up} {
-        padding: 0 20px;
+        margin: 0 20px;
       }
       &:hover {
         border-color: $primary-color;
@@ -356,6 +358,7 @@ nav {
     }
     .input-field label.active i {
       color: $primary-color;
+      font-weight: bold;
     }
     .brand-logo {
       padding: 11px 0 0;
@@ -388,7 +391,7 @@ nav {
 
 .banner {
   position: relative;
-  height: 530px;
+  height: 400px;
   background-color: $tertiary-color;
   background-size: cover;
   background-repeat: no-repeat;
@@ -407,7 +410,7 @@ nav {
       margin-bottom: 0;
     }
   }
-  &-text {
+  &-text.section {
     height: auto;
     padding: 50px 0;
     @media #{$medium-and-up} {
@@ -435,7 +438,7 @@ nav {
 }
 
 #index-banner {
-
+  background-attachment: fixed;
 }
 #highlights-banner {
   background: transparent;
@@ -447,8 +450,16 @@ nav {
 }
 
 .filter-btns {
+  &.row {
+    margin-bottom: 0px;
+  }
   a {
     margin: 0 12px 12px 0;
+    &.btn-filter {
+      @media #{$large-and-up} {
+        margin-top: -12px;
+      }
+    }
   }
 }
 
@@ -456,6 +467,7 @@ nav {
 
 .section {
   margin-bottom: 20px;
+  padding-top: 0;
   @media #{$medium-and-up} {
     margin-bottom: 70px;
   }
@@ -471,8 +483,17 @@ nav {
 }
 
 .jigsaw {
-  .row .row {
-    margin-bottom: 0
+  .row {
+    margin-bottom: 0;
+    .m12 {
+      .card {
+        margin-bottom: 0;
+      }
+      .card-content {
+        border-color: $tertiary-color;
+        
+      }
+    }
   }
   .card-content {
     position: absolute;
@@ -483,6 +504,7 @@ nav {
     z-index: 3;
     border: 10px solid transparent;
     transition: all .3s ease-in-out;
+    &
     &:hover {
       border-color: $tertiary-color;
     }
@@ -490,9 +512,12 @@ nav {
       color: $primary-color;
       font-size: 2.533rem;
       position: absolute;
-      left: 34px;
+      left: 24px;
       bottom: 28px;
       margin: 0;
+      @media #{$extra-large-and-up} {
+        left: 34px;
+      }
     }
   }
 }
@@ -509,6 +534,9 @@ nav {
 }
 
 .countries {
+  .row .col.xl2 {
+    width: 20%;
+  }
   .card {
     background: #E1E1E1;
     @media #{$large-and-up} {
