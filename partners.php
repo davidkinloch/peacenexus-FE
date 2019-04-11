@@ -35,7 +35,6 @@
     <div class="row">
       <div class="col s12 center">
         <figure class="quote">
-          <img src="https://dummyimage.com/1200x400/E1E1E1/E1E1E1.jpg" class="responsive-img"  alt="">
           <figcaption class="quote__text valign-wrapper">
             <div class="row"> 
               <div class="col s10 offset-s1" >

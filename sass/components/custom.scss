@@ -301,7 +301,7 @@ nav {
     }
     a {
       height: 50px;
-      margin:  0 10px;
+      margin:  0 6px;
       padding: 0;
       border-bottom: transparent 4px solid; 
       transition: all .15s ease-in-out;
@@ -311,7 +311,7 @@ nav {
         padding: 0 20px;
       }
       @media #{$extra-large-and-up} {
-        margin: 0 20px;
+        margin: 0 17px;
       }
       &:hover {
         border-color: $primary-color;
@@ -484,14 +484,22 @@ nav {
 
 .jigsaw {
   .row {
-    margin-bottom: 0;
+    margin-bottom: 20px;
+    @media #{$large-and-up} {
+      margin-bottom: 13px;
+    }
+    @media #{$extra-large-and-up} {
+      margin-bottom: 15px;
+    }
     .m12 {
+      margin-bottom: 20px;
+      &.active {
+        .card-content {
+          border-color: $tertiary-color;
+        }
+      }
       .card {
         margin-bottom: 0;
-      }
-      .card-content {
-        border-color: $tertiary-color;
-        
       }
     }
   }
@@ -504,8 +512,7 @@ nav {
     z-index: 3;
     border: 10px solid transparent;
     transition: all .3s ease-in-out;
-    &
-    &:hover {
+    &:hover{
       border-color: $tertiary-color;
     }
     .card-title {
@@ -535,11 +542,13 @@ nav {
 
 .countries {
   .row .col.xl2 {
-    width: 20%;
+    @media #{$extra-large-and-up} {
+      width: 20%;
+    }
   }
   .card {
     background: #E1E1E1;
-    @media #{$large-and-up} {
+    @media #{$extra-large-and-up} {
       padding: 120px 0 30px;
     }
     .card-content {
@@ -638,9 +647,15 @@ nav {
 .quote {
   position: relative;
   margin: 0;
+  background: #ddd;
   &__text {
     position: relative;
     margin-top: 20px;
+    padding: 40px 0 20px;
+    @media #{$large-and-up} {
+      
+    }
+    /*
     @media #{$large-and-up} {
       position: absolute;
       top: 0;
@@ -649,6 +664,7 @@ nav {
       width: 100%;
       margin-top: 0;
     }
+    */
   }
   blockquote {
     margin: 0;

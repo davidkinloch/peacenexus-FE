@@ -44,6 +44,7 @@
           <div class="card-image waves-effect waves-block waves-light">
             <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
+              <h3 class="small">Title</h3>
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>
@@ -59,6 +60,7 @@
           <div class="card-image waves-effect waves-block waves-light">
             <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
+              <h3 class="small">Title</h3>
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>
@@ -74,6 +76,7 @@
           <div class="card-image waves-effect waves-block waves-light">
             <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
+              <h3 class="small">Title</h3>
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>
@@ -89,6 +92,7 @@
           <div class="card-image waves-effect waves-block waves-light">
             <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
+              <h3 class="small">Title</h3>
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>
@@ -104,6 +108,7 @@
           <div class="card-image waves-effect waves-block waves-light">
             <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
+              <h3 class="small">Title</h3>
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>
@@ -119,6 +124,7 @@
           <div class="card-image waves-effect waves-block waves-light">
             <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
+              <h3 class="small">Title</h3>
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>
@@ -134,6 +140,7 @@
           <div class="card-image waves-effect waves-block waves-light">
             <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
+              <h3 class="small">Title</h3>
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>
@@ -149,6 +156,7 @@
           <div class="card-image waves-effect waves-block waves-light">
             <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
+              <h3 class="small">Title</h3>
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>
@@ -164,6 +172,7 @@
           <div class="card-image waves-effect waves-block waves-light">
             <img src="https://dummyimage.com/430x430/ccc/333.jpg" class="responsive-img"  alt="">
             <div class="card-content">
+              <h3 class="small">Title</h3>
               <p> Excepteur sint occaecat cupidatat non proident sunt in culpa.</p>
               <a href="#">READ MORE</a>
             </div>

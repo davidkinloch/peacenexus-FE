@@ -38,7 +38,7 @@
         <li class="tab col s3">
           <a href="#focus-3">
             <span>Step Three</span>
-            <h3>3. when &amp; how to apply</h3>
+            <h3>3. When &amp; how to apply</h3>
           </a>
         </li>
         <li class="tab col s3">

@@ -26,7 +26,7 @@
           <div class="card-image waves-effect waves-block waves-light">
             <img src="https://dummyimage.com/960x960/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
           </div>
-          <div class="card-content">
+          <div class="card-content waves-effect waves-block waves-light">
             <h3 class="card-title activator">Mission</h3>
           </div>
         </div>
@@ -38,7 +38,7 @@
               <div class="card-image waves-effect waves-block waves-light">
                 <img src="https://dummyimage.com/640x640/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
               </div>
-               <div class="card-content">
+               <div class="card-content waves-effect waves-block waves-light">
                 <h3 class="card-title activator">Regions</h3>
               </div>
             </div>
@@ -48,19 +48,19 @@
               <div class="card-image waves-effect waves-block waves-light">
                 <img src="https://dummyimage.com/640x640/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
               </div>
-               <div class="card-content">
+               <div class="card-content waves-effect waves-block waves-light">
                 <h3 class="card-title activator">Services</h3>
               </div>
             </div>
           </div>
         </div>
         <div class="row">
-          <div class="col s12 m12">
+          <div class="col s12 m12 active">
             <div class="card">
-              <div class="card-image waves-effect waves-block waves-light">
+              <div class="card-image">
                 <img src="https://dummyimage.com/640x308/ccc/333.jpg" class="responsive-img rollover__image"  alt="">
               </div>
-               <div class="card-content">
+               <div class="card-content waves-effect waves-block waves-light">
                 <h3 class="card-title activator">Peace Investment Fund</h3>
               </div>
             </div>
